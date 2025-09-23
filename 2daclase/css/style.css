@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(41, 40, 40);
+}
+.Pbox{
+    background-color: #ffff;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    display: flex;
+    position: relative;
+    width: 100%;
+    height: 8000;
+    
+}
+.Container{
+    background-color: aqua;
+    text-align: center;
+    color: black;
+    word-break: break-word;
+    line-break: normal;
+    hyphens: auto;
+    overflow-wrap: auto;
+    position: absolute;
+    top: 2%;
+    bottom: 2%;
+    left: 50%;
+    right: 2%;
+}
+.Encabezado{
+    
+}
+.Menu{
+    background-color: rgb(173, 0, 0);
+    position: absolute;
+    top: 2%;
+    bottom: 2%;
+    left: 2%;
+    right: 50%;
+}
+.Links{
+    color: black;
+    text-align: left;
+    word-break: break-word;
+    line-break: normal;
+    hyphens: auto;
+    overflow-wrap: auto;
+    text-justify: auto;
+}
